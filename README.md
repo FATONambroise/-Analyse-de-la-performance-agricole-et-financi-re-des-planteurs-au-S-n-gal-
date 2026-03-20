@@ -6,7 +6,7 @@ répartis dans 5 zones agroécologiques du Sénégal, dans le cadre
 d'un programme de microcrédit agricole d'une ONG.
 
 ## 📊 Aperçu du Dashboard
-![Vue globale](screenshots/01_vue_globale.png)
+![Vue globale](Screenshots/2_Vue globale.png)
 
 ## 🎯 Objectifs
 - Identifier les cultures les plus productives par zone
