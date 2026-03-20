@@ -1,64 +1,71 @@
-# 📋 Synthèse Exécutive — Agriculture & Microcrédit Sénégal
+# Synthèse Exécutive — Agriculture & Microcrédit Sénégal
 
-## Vue d'ensemble
-Analyse portant sur **50 planteurs**, **5 régions agricoles**,
-**5 années (2019–2023)** et **12 cultures** différentes.
+Challenge DACOT 2026 | Power BI | 2019–2023
 
----
-
-## 💰 Performance Financière
+## KPIs Globaux
 
 | Indicateur | Valeur |
 |---|---|
-| Total crédits octroyés | 89 799 186 FCFA |
-| Total remboursé | 69 832 542 FCFA |
-| **Taux de remboursement global** | **77,8%** |
+| Planteurs analysés | 50 |
+| Montant total des crédits | 89 799 186 FCFA |
+| Taux de remboursement | 77,8% |
+| Productivité moyenne | 1,18 T/km² |
+| Surface totale cultivée | 1 008 km² |
 
-### 🏆 Régions les plus disciplinées financièrement
-1. **Casamance** — 82,5% de remboursement
-2. **Sénégal Oriental** — 82,3%
-3. **Bassin Arachidier** — 80,1%
+## Performance Agricole
 
-### ⚠️ Régions à surveiller
-- **Zone des Niayes** — 69,5% ← taux le plus faible
-- **Vallée du Fleuve Sénégal** — 71,6%
+### Top cultures par rendement
 
----
+| Culture | Rendement T/km² |
+|---|---|
+| Coton | 242,47 |
+| Diversification agricole | 190,39 |
+| Mangue | 113,96 |
+| Riz irrigué | 109,74 |
+| Mil | 92,96 |
 
-## 🌾 Performance Agricole
+### Évolution des rendements
 
-### Cultures les plus productives
-1. **Arachide** — rendement moyen : 3,38
-2. **Oignon** — rendement moyen : 3,36
-3. **Haricot vert** — rendement moyen : 3,31
-
-### Évolution des rendements (2019–2023)
 | Année | Rendement moyen |
 |---|---|
-| 2019 | 3,17 |
-| 2020 | 3,21 |
-| 2021 | 3,11 ← année difficile |
-| 2022 | 3,29 |
-| 2023 | 3,29 ← meilleure performance |
+| 2019 | 3,17 T/km² |
+| 2020 | 3,21 T/km² |
+| 2021 | 3,11 T/km² — creux |
+| 2022 | 3,29 T/km² — meilleure année |
+| 2023 | 3,29 T/km² |
 
-➡️ **Tendance positive** : les rendements progressent après le creux de 2021
+## Impact du Microcrédit
 
----
+| Région | Fermiers | Taux remb. | Crédit (FCFA) |
+|---|---|---|---|
+| Sénégal Oriental | 16 | 82,3% | 32 317 241 |
+| Vallée du Fleuve | 12 | 71,6% | 18 454 622 |
+| Bassin Arachidier | 10 | 80,1% | 17 420 228 |
+| Zone des Niayes | 6 | 69,5% | 13 576 444 |
+| Casamance | 6 | 82,5% | 8 030 651 |
 
-## 🗺️ Performance Géographique
-Les régions affichent des rendements homogènes (entre 3,20 et 3,22),
-ce qui suggère que le programme de microcrédit a eu un effet
-**équilibrant** entre les zones.
+> La Casamance performe mieux avec moins de crédit que toutes les autres régions.
 
----
+## Segmentation des Planteurs
 
-## 🎯 Recommandations pour l'ONG
+### Performants — 18 fermiers
+- Rendement > 1,25 T/km²
+- Remboursement > 80%
+- Zones : Sénégal Oriental & Casamance
 
-1. **Renforcer l'accompagnement** dans la Zone des Niayes
-   et la Vallée du Fleuve Sénégal (taux de remboursement faibles)
-2. **Promouvoir l'arachide et l'oignon** comme cultures prioritaires
-   (rendements les plus élevés)
-3. **Analyser les causes du creux de 2021** pour anticiper
-   les futures années difficiles
-4. **Capitaliser sur la Casamance et le Sénégal Oriental**
-   comme modèles de bonne gestion financière
+### En progrès — 22 fermiers
+- Rendement 1,0–1,25 T/km²
+- Remboursement 65–80%
+- Zones : Vallée du Fleuve & Niayes
+
+### À risque — 10 fermiers
+- Rendement < 1,0 T/km²
+- Remboursement < 65%
+- Zone : Bassin Arachidier
+
+## Recommandations
+
+1. **Cibler les crédits** — privilégier le riz irrigué et le coton
+2. **Accompagnement technique** — renforcer le suivi dans le Bassin Arachidier et les Niayes
+3. **Valoriser les bonnes pratiques** — dupliquer le modèle Casamance
+4. **Pilotage par KPIs** — tableau de bord trimestriel avec 5 indicateurs
